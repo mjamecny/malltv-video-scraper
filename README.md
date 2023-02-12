@@ -1,6 +1,6 @@
 # malltv-video-scraper
 
-A terminal application for scraping video from MALL TV.
+A terminal application for scraping video from MALL TV. The script is set to open the video in MPV player.
 
 ## Usage
 
