@@ -16,4 +16,4 @@ Install dependencies and set command globally
 
 `malltv [link to video] [resolution] `
 
-- resolutions: 240p, 360p, 480p, 720p, 1080p
+- resolutions: 240p, 360p, 480p, 720p(default), 1080p
